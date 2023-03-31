@@ -1,0 +1,13 @@
+.thum-item {
+  margin: 10px;
+}
+.thum-imgage {
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}

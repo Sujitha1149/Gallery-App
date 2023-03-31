@@ -1,0 +1,15 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.emoj-h {
+  height: 400px;
+}
+.thumbnain-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
